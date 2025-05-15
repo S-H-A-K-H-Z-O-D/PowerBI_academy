@@ -13,7 +13,6 @@
 
 5. Create the following DAX measures and calculated columns to practice filter contexts, aggregations, and time intelligence.
 - Create a calculated column called profit by using Budget and Box office column
-
 - Create a calculated column to categorize movies by run time for segmentation. (Run Time < 90, Short Run Time > 90 and Run Time < 120, Medium Run Time > 120 , Long) Create following measures:
     - Total Box Office 
     - Average Budget 
@@ -24,19 +23,23 @@
     - Average Nominations per Director 
 
 
-6. Visualization Requirements
+6. Visualization Requirements: Create an interactive dashboard with the following visuals to practice Power BI’s visualization features.
+- Page 1: Overview Dashboard. Recommended Visuals: 
+    - Card: Total Box Office, Profit Margin, Movies with Oscars. 
+    - Bar Chart: Total Box Office by Genre (stacked by Certificate). 
+    - Line Chart: Box Office trend by Release Year. 
+    - Slicer: Filter by Country and Release Date (range). 
+    - KPI: YoY Box Office Growth (target: >0%). 
 
-Create an interactive dashboard with the following visuals to practice Power BI’s visualization features 
-- Page 1: Overview Dashboard 
-Recommended Visuals: - Card: Total Box Office, Profit Margin, Movies with Oscars. 
-- Bar Chart: Total Box Office by Genre (stacked by Certificate). - Line Chart: Box Office trend by Release Year. - Slicer: Filter by Country and Release Date (range). - KPI: YoY Box Office Growth (target: >0%). 
-
-- Page 2: Director Analysis 
-Recommended Visuals: - Treemap: Budget by Director (size by Budget, color by Oscar Wins). - Table: List Directors, Total Nominations, Total Oscars, 
-Avg Nominations per Director. 
-- Slicer: Filter by Genre. 
-- Donut Chart: Run Time Category distribution for selected Director. - Page 3: Genre and Country Insights 
-Recommended Visuals:
- - Matrix: Genre vs. Country with Total Box Office as 
-values. 
-- Pie Chart: Share of Box Office by Certificate. - Custom Visual: Word Cloud for Genre (requires marketplace visual). -    Slicer: Filter by Run Time Category. - Use conditional formatting in the matrix (e.g., color scale for Box Office).
+- Page 2: Director Analysis. Recommended Visuals: 
+    - Treemap: Budget by Director (size by Budget, color by Oscar Wins). 
+    - Table: List Directors, Total Nominations, Total Oscars, Avg Nominations per Director. 
+    - Slicer: Filter by Genre. 
+    - Donut Chart: Run Time Category distribution for selected Director. 
+    
+- Page 3: Genre and Country Insights Recommended Visuals:
+    - Matrix: Genre vs. Country with Total Box Office as values. 
+    - Pie Chart: Share of Box Office by Certificate. 
+    - Custom Visual: Word Cloud for Genre (requires marketplace visual).
+    - Slicer: Filter by Run Time Category. 
+    - Use conditional formatting in the matrix (e.g., color scale for Box Office).
