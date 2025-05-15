@@ -1,0 +1,1001 @@
+OrderID,Customer,Product,Category,Sales,Quantity,OrderDate,City,Region,Country,Latitude,Longitude
+1051,Charlie,Laptop,Accessories,1547.32,8,03-13-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1052,Bob,Printer,Accessories,540.73,8,03-15-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1053,Charlie,Printer,Accessories,250.85,2,03-17-2024,Toronto,Ontario,Canada,43.651,-79.347
+1054,Isaac,Headphones,Accessories,379.23,8,01-12-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1055,Olivia,Camera,Mobile Devices,1167.02,1,03-30-2024,New York,New York,USA,40.7128,-74.006
+1056,Noah,Phone,Electronics,1060.26,7,03-28-2024,London,England,UK,51.5074,-0.1278
+1057,Noah,Headphones,Accessories,161.58,4,01-25-2024,Paris,Île-de-France,France,48.8566,2.3522
+1058,Olivia,Headphones,Accessories,258.71,2,02-10-2024,Los Angeles,California,USA,34.0522,-118.2437
+1059,Hannah,Printer,Accessories,393.67,8,02-01-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1060,Jack,Laptop,Accessories,1198.45,4,02-24-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1061,Isaac,Printer,Accessories,488.83,4,02-22-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1062,David,Mouse,Accessories,341.21,8,03-07-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1063,Ava,Phone,Electronics,1193.29,6,03-18-2024,Los Angeles,California,USA,34.0522,-118.2437
+1064,Hannah,Smartwatch,Computers,388.21,4,02-20-2024,Paris,Île-de-France,France,48.8566,2.3522
+1065,Hannah,Mouse,Accessories,423.84,1,02-04-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1066,Emma,Monitor,Computers,926.59,8,01-20-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1067,Grace,Printer,Accessories,478.77,7,02-13-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1068,Isaac,Printer,Accessories,497.2,2,03-25-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1069,Isaac,Monitor,Computers,1268.68,8,03-08-2024,Toronto,Ontario,Canada,43.651,-79.347
+1070,Alice,Monitor,Computers,781.03,3,02-21-2024,Los Angeles,California,USA,34.0522,-118.2437
+1071,Liam,Camera,Mobile Devices,431.73,2,01-09-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1072,Noah,Keyboard,Accessories,813.24,2,02-14-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1073,Isaac,Printer,Accessories,269.94,8,02-22-2024,London,England,UK,51.5074,-0.1278
+1074,Olivia,Monitor,Computers,462.87,2,02-21-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1075,Jack,Keyboard,Accessories,313.64,6,02-18-2024,Toronto,Ontario,Canada,43.651,-79.347
+1076,Frank,Phone,Electronics,603.14,4,01-17-2024,Paris,Île-de-France,France,48.8566,2.3522
+1077,Noah,Printer,Accessories,345.91,9,02-07-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1078,Charlie,Tablet,Accessories,992.82,9,03-24-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1079,Noah,Printer,Accessories,318.94,1,02-26-2024,London,England,UK,51.5074,-0.1278
+1080,Liam,Laptop,Accessories,1244.55,7,01-04-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1081,Bob,Phone,Electronics,418.63,5,01-06-2024,Toronto,Ontario,Canada,43.651,-79.347
+1082,Sophia,Monitor,Computers,686.87,2,03-08-2024,Berlin,Berlin,Germany,52.52,13.405
+1083,Ava,Mouse,Accessories,103.95,5,02-29-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1084,Alice,Printer,Accessories,374.9,6,03-14-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1085,David,Headphones,Accessories,376.85,1,02-19-2024,New York,New York,USA,40.7128,-74.006
+1086,David,Phone,Electronics,715.93,7,02-15-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1087,Liam,Headphones,Accessories,207.38,1,01-08-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1088,Liam,Headphones,Accessories,205.84,8,01-06-2024,Toronto,Ontario,Canada,43.651,-79.347
+1089,Isaac,Phone,Electronics,887.3,2,01-20-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1090,Jack,Camera,Mobile Devices,1262.38,6,03-17-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1091,Liam,Keyboard,Accessories,317.48,9,01-28-2024,Toronto,Ontario,Canada,43.651,-79.347
+1092,Charlie,Tablet,Accessories,403.85,7,02-04-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1093,Grace,Camera,Mobile Devices,927.51,10,01-09-2024,Los Angeles,California,USA,34.0522,-118.2437
+1094,Isaac,Printer,Accessories,397.3,10,03-19-2024,Toronto,Ontario,Canada,43.651,-79.347
+1095,David,Laptop,Accessories,1334.32,6,03-29-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1096,Noah,Mouse,Accessories,533.3,10,01-04-2024,Paris,Île-de-France,France,48.8566,2.3522
+1097,Charlie,Keyboard,Accessories,853.17,10,03-13-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1098,Liam,Monitor,Computers,709.53,3,02-13-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1099,Grace,Mouse,Accessories,472.61,1,02-16-2024,London,England,UK,51.5074,-0.1278
+1100,Charlie,Smartwatch,Computers,588.21,3,01-31-2024,Berlin,Berlin,Germany,52.52,13.405
+1101,Charlie,Tablet,Accessories,415.84,10,01-24-2024,Berlin,Berlin,Germany,52.52,13.405
+1102,David,Camera,Mobile Devices,343.88,7,01-05-2024,Los Angeles,California,USA,34.0522,-118.2437
+1103,Bob,Laptop,Accessories,1442.27,3,03-18-2024,London,England,UK,51.5074,-0.1278
+1104,Emma,Keyboard,Accessories,599.73,1,03-31-2024,Los Angeles,California,USA,34.0522,-118.2437
+1105,Jack,Smartwatch,Computers,314.3,4,01-17-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1106,Liam,Printer,Accessories,578.28,9,01-29-2024,Berlin,Berlin,Germany,52.52,13.405
+1107,Sophia,Camera,Mobile Devices,424.91,3,02-11-2024,London,England,UK,51.5074,-0.1278
+1108,Jack,Mouse,Accessories,597.74,1,02-04-2024,Berlin,Berlin,Germany,52.52,13.405
+1109,Bob,Smartwatch,Computers,551.32,7,03-19-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1110,Emma,Tablet,Accessories,874.66,6,02-25-2024,Los Angeles,California,USA,34.0522,-118.2437
+1111,David,Monitor,Computers,347.29,2,03-04-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1112,Ava,Printer,Accessories,206.0,9,01-15-2024,Los Angeles,California,USA,34.0522,-118.2437
+1113,Frank,Tablet,Accessories,1161.94,10,01-26-2024,Paris,Île-de-France,France,48.8566,2.3522
+1114,Jack,Printer,Accessories,415.36,8,03-22-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1115,Charlie,Printer,Accessories,264.86,3,02-03-2024,Toronto,Ontario,Canada,43.651,-79.347
+1116,Jack,Printer,Accessories,546.26,6,01-18-2024,New York,New York,USA,40.7128,-74.006
+1117,Liam,Laptop,Accessories,1239.34,5,03-31-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1118,Liam,Tablet,Accessories,1172.49,5,01-14-2024,Toronto,Ontario,Canada,43.651,-79.347
+1119,Sophia,Phone,Electronics,1055.07,10,01-06-2024,Berlin,Berlin,Germany,52.52,13.405
+1120,Jack,Keyboard,Accessories,347.63,3,03-24-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1121,Noah,Camera,Mobile Devices,551.72,3,03-04-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1122,Hannah,Printer,Accessories,351.87,4,02-25-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1123,Isaac,Mouse,Accessories,422.18,4,02-03-2024,London,England,UK,51.5074,-0.1278
+1124,Ava,Camera,Mobile Devices,679.0,5,01-14-2024,Berlin,Berlin,Germany,52.52,13.405
+1125,Hannah,Mouse,Accessories,299.31,10,01-31-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1126,Charlie,Headphones,Accessories,165.35,9,03-20-2024,London,England,UK,51.5074,-0.1278
+1127,Hannah,Phone,Electronics,1216.48,7,03-17-2024,New York,New York,USA,40.7128,-74.006
+1128,Bob,Laptop,Accessories,952.22,4,01-12-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1129,Noah,Mouse,Accessories,199.22,3,02-20-2024,Toronto,Ontario,Canada,43.651,-79.347
+1130,Noah,Smartwatch,Computers,598.67,9,01-19-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1131,Liam,Smartwatch,Computers,556.35,7,02-11-2024,Los Angeles,California,USA,34.0522,-118.2437
+1132,Olivia,Smartwatch,Computers,526.74,1,01-24-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1133,Alice,Printer,Accessories,300.13,1,02-14-2024,New York,New York,USA,40.7128,-74.006
+1134,Isaac,Smartwatch,Computers,473.11,2,01-16-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1135,Hannah,Keyboard,Accessories,313.88,1,03-10-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1136,Alice,Camera,Mobile Devices,686.22,4,01-23-2024,London,England,UK,51.5074,-0.1278
+1137,Frank,Mouse,Accessories,421.59,4,02-14-2024,Berlin,Berlin,Germany,52.52,13.405
+1138,Charlie,Mouse,Accessories,598.22,9,01-23-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1139,Olivia,Phone,Electronics,1031.01,8,02-03-2024,London,England,UK,51.5074,-0.1278
+1140,Alice,Keyboard,Accessories,414.74,7,03-17-2024,London,England,UK,51.5074,-0.1278
+1141,Bob,Phone,Electronics,893.38,8,01-13-2024,Toronto,Ontario,Canada,43.651,-79.347
+1142,Sophia,Headphones,Accessories,106.05,10,02-26-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1143,Bob,Printer,Accessories,207.49,7,02-13-2024,Berlin,Berlin,Germany,52.52,13.405
+1144,Charlie,Printer,Accessories,309.53,4,01-15-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1145,Ava,Laptop,Accessories,1424.51,5,03-30-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1146,Alice,Tablet,Accessories,1225.78,6,02-29-2024,New York,New York,USA,40.7128,-74.006
+1147,Hannah,Headphones,Accessories,159.41,1,03-27-2024,Paris,Île-de-France,France,48.8566,2.3522
+1148,Alice,Mouse,Accessories,452.62,1,03-31-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1149,Grace,Smartwatch,Computers,688.38,7,02-15-2024,Berlin,Berlin,Germany,52.52,13.405
+1150,Charlie,Laptop,Accessories,1411.23,10,01-22-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1151,Charlie,Mouse,Accessories,145.02,7,01-03-2024,Toronto,Ontario,Canada,43.651,-79.347
+1152,Hannah,Headphones,Accessories,350.63,9,03-20-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1153,Sophia,Keyboard,Accessories,178.7,4,03-06-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1154,Liam,Phone,Electronics,985.78,7,03-15-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1155,Emma,Printer,Accessories,297.61,2,02-27-2024,Los Angeles,California,USA,34.0522,-118.2437
+1156,Grace,Smartwatch,Computers,781.25,5,02-29-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1157,Olivia,Laptop,Accessories,1100.97,5,02-05-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1158,Isaac,Mouse,Accessories,410.28,5,02-02-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1159,Alice,Smartwatch,Computers,672.83,6,01-13-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1160,Isaac,Camera,Mobile Devices,595.23,3,03-14-2024,London,England,UK,51.5074,-0.1278
+1161,Charlie,Printer,Accessories,285.46,3,01-16-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1162,Emma,Phone,Electronics,1403.37,6,03-16-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1163,Sophia,Smartwatch,Computers,774.25,9,01-25-2024,London,England,UK,51.5074,-0.1278
+1164,Charlie,Laptop,Accessories,957.9,8,02-06-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1165,Bob,Printer,Accessories,406.68,10,03-16-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1166,Bob,Tablet,Accessories,483.8,2,02-22-2024,Paris,Île-de-France,France,48.8566,2.3522
+1167,Jack,Monitor,Computers,1284.77,8,02-22-2024,Los Angeles,California,USA,34.0522,-118.2437
+1168,David,Printer,Accessories,399.13,7,01-10-2024,Paris,Île-de-France,France,48.8566,2.3522
+1169,Bob,Printer,Accessories,331.26,4,02-16-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1170,Noah,Phone,Electronics,1318.46,8,03-17-2024,London,England,UK,51.5074,-0.1278
+1171,Charlie,Phone,Electronics,939.38,7,03-07-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1172,Emma,Tablet,Accessories,499.0,4,01-25-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1173,Bob,Printer,Accessories,556.56,3,03-30-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1174,Ava,Smartwatch,Computers,497.04,1,02-16-2024,Toronto,Ontario,Canada,43.651,-79.347
+1175,Liam,Headphones,Accessories,342.55,10,03-17-2024,Berlin,Berlin,Germany,52.52,13.405
+1176,Noah,Phone,Electronics,459.79,4,01-15-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1177,Liam,Printer,Accessories,508.46,1,03-11-2024,New York,New York,USA,40.7128,-74.006
+1178,Noah,Phone,Electronics,1056.64,4,02-29-2024,Los Angeles,California,USA,34.0522,-118.2437
+1179,Noah,Printer,Accessories,264.66,2,01-09-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1180,Sophia,Phone,Electronics,380.69,5,03-13-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1181,Emma,Laptop,Accessories,993.33,4,01-03-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1182,Alice,Monitor,Computers,929.45,6,03-02-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1183,Isaac,Keyboard,Accessories,320.11,3,02-03-2024,Toronto,Ontario,Canada,43.651,-79.347
+1184,Sophia,Smartwatch,Computers,732.64,4,02-04-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1185,Ava,Printer,Accessories,252.48,1,02-11-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1186,Frank,Headphones,Accessories,121.85,1,03-28-2024,London,England,UK,51.5074,-0.1278
+1187,Noah,Printer,Accessories,587.37,4,01-26-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1188,Noah,Printer,Accessories,598.84,7,03-04-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1189,Ava,Phone,Electronics,1172.16,5,01-02-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1190,Hannah,Camera,Mobile Devices,1185.16,8,01-16-2024,Los Angeles,California,USA,34.0522,-118.2437
+1191,Sophia,Camera,Mobile Devices,388.21,1,03-20-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1192,Liam,Headphones,Accessories,209.25,4,02-13-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1193,Noah,Tablet,Accessories,449.25,6,02-01-2024,New York,New York,USA,40.7128,-74.006
+1194,Hannah,Camera,Mobile Devices,1078.69,10,02-24-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1195,Frank,Monitor,Computers,412.94,9,02-23-2024,Paris,Île-de-France,France,48.8566,2.3522
+1196,Noah,Keyboard,Accessories,855.04,8,03-31-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1197,Grace,Keyboard,Accessories,630.79,9,03-07-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1198,Noah,Camera,Mobile Devices,662.41,3,03-15-2024,New York,New York,USA,40.7128,-74.006
+1199,Liam,Smartwatch,Computers,447.56,3,03-09-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1200,Frank,Keyboard,Accessories,299.81,2,01-18-2024,Berlin,Berlin,Germany,52.52,13.405
+1201,Alice,Laptop,Accessories,1190.79,6,03-03-2024,New York,New York,USA,40.7128,-74.006
+1202,Olivia,Phone,Electronics,685.39,2,01-08-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1203,Emma,Tablet,Accessories,828.46,9,02-19-2024,Los Angeles,California,USA,34.0522,-118.2437
+1204,Jack,Headphones,Accessories,124.35,8,01-01-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1205,Noah,Keyboard,Accessories,298.31,2,01-04-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1206,Emma,Monitor,Computers,1034.38,8,03-25-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1207,Olivia,Monitor,Computers,831.9,6,03-10-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1208,Hannah,Smartwatch,Computers,513.55,2,03-09-2024,Paris,Île-de-France,France,48.8566,2.3522
+1209,Bob,Keyboard,Accessories,890.12,4,03-04-2024,London,England,UK,51.5074,-0.1278
+1210,Charlie,Monitor,Computers,483.51,6,02-08-2024,New York,New York,USA,40.7128,-74.006
+1211,David,Headphones,Accessories,205.7,5,01-18-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1212,Grace,Phone,Electronics,978.06,5,03-04-2024,London,England,UK,51.5074,-0.1278
+1213,Liam,Headphones,Accessories,347.3,6,01-02-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1214,Bob,Keyboard,Accessories,865.72,7,03-22-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1215,Bob,Keyboard,Accessories,248.71,9,03-04-2024,Berlin,Berlin,Germany,52.52,13.405
+1216,Olivia,Keyboard,Accessories,896.3,9,03-06-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1217,Isaac,Tablet,Accessories,1360.85,2,02-05-2024,Paris,Île-de-France,France,48.8566,2.3522
+1218,Liam,Printer,Accessories,588.65,10,01-04-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1219,Isaac,Mouse,Accessories,151.35,4,03-06-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1220,David,Monitor,Computers,879.46,7,02-26-2024,Paris,Île-de-France,France,48.8566,2.3522
+1221,Olivia,Printer,Accessories,483.74,8,03-29-2024,Paris,Île-de-France,France,48.8566,2.3522
+1222,David,Headphones,Accessories,260.09,5,01-26-2024,New York,New York,USA,40.7128,-74.006
+1223,Emma,Monitor,Computers,365.54,4,03-22-2024,Berlin,Berlin,Germany,52.52,13.405
+1224,Grace,Keyboard,Accessories,534.2,1,02-27-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1225,Grace,Printer,Accessories,493.75,3,01-09-2024,Paris,Île-de-France,France,48.8566,2.3522
+1226,Emma,Headphones,Accessories,188.02,8,03-31-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1227,Bob,Laptop,Accessories,1502.58,4,03-12-2024,Paris,Île-de-France,France,48.8566,2.3522
+1228,Olivia,Mouse,Accessories,284.41,9,01-19-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1229,Charlie,Camera,Mobile Devices,448.4,4,01-23-2024,Paris,Île-de-France,France,48.8566,2.3522
+1230,Bob,Tablet,Accessories,397.33,5,01-24-2024,London,England,UK,51.5074,-0.1278
+1231,Grace,Monitor,Computers,1216.72,4,02-23-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1232,Liam,Keyboard,Accessories,110.2,8,02-02-2024,Los Angeles,California,USA,34.0522,-118.2437
+1233,David,Keyboard,Accessories,336.86,3,02-11-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1234,Emma,Tablet,Accessories,917.29,5,01-18-2024,Berlin,Berlin,Germany,52.52,13.405
+1235,Frank,Phone,Electronics,616.17,10,03-01-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1236,Ava,Laptop,Accessories,724.12,3,01-03-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1237,Isaac,Mouse,Accessories,495.04,8,01-18-2024,New York,New York,USA,40.7128,-74.006
+1238,Ava,Monitor,Computers,1210.62,10,01-10-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1239,Noah,Monitor,Computers,599.72,3,01-04-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1240,Ava,Phone,Electronics,1480.45,3,02-14-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1241,Ava,Monitor,Computers,1196.88,2,03-19-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1242,Jack,Smartwatch,Computers,454.23,2,03-08-2024,Los Angeles,California,USA,34.0522,-118.2437
+1243,Charlie,Camera,Mobile Devices,365.49,5,02-20-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1244,Emma,Smartwatch,Computers,684.05,7,01-03-2024,Paris,Île-de-France,France,48.8566,2.3522
+1245,Hannah,Tablet,Accessories,1301.56,2,03-17-2024,Toronto,Ontario,Canada,43.651,-79.347
+1246,Bob,Tablet,Accessories,1011.6,10,02-16-2024,Paris,Île-de-France,France,48.8566,2.3522
+1247,Noah,Phone,Electronics,1177.14,4,02-19-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1248,Emma,Tablet,Accessories,607.52,1,03-18-2024,Paris,Île-de-France,France,48.8566,2.3522
+1249,Noah,Laptop,Accessories,912.93,10,01-11-2024,London,England,UK,51.5074,-0.1278
+1250,Alice,Printer,Accessories,575.11,10,01-03-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1251,Hannah,Monitor,Computers,1236.16,6,01-06-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1252,Isaac,Headphones,Accessories,240.7,9,02-24-2024,New York,New York,USA,40.7128,-74.006
+1253,Jack,Headphones,Accessories,185.59,1,02-03-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1254,Hannah,Smartwatch,Computers,332.7,8,01-14-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1255,Jack,Headphones,Accessories,341.89,7,03-05-2024,New York,New York,USA,40.7128,-74.006
+1256,Isaac,Camera,Mobile Devices,325.31,8,02-12-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1257,Alice,Tablet,Accessories,820.9,8,02-22-2024,Paris,Île-de-France,France,48.8566,2.3522
+1258,Sophia,Phone,Electronics,397.08,6,01-22-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1259,David,Smartwatch,Computers,571.17,5,01-22-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1260,David,Camera,Mobile Devices,1305.83,4,02-24-2024,Los Angeles,California,USA,34.0522,-118.2437
+1261,Charlie,Phone,Electronics,1091.64,4,01-16-2024,Berlin,Berlin,Germany,52.52,13.405
+1262,David,Keyboard,Accessories,556.84,1,01-08-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1263,Isaac,Smartwatch,Computers,492.83,9,03-26-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1264,Alice,Printer,Accessories,457.62,3,01-04-2024,New York,New York,USA,40.7128,-74.006
+1265,Sophia,Printer,Accessories,437.39,2,01-12-2024,Paris,Île-de-France,France,48.8566,2.3522
+1266,Charlie,Smartwatch,Computers,531.97,7,03-13-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1267,Noah,Smartwatch,Computers,486.26,3,01-23-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1268,Emma,Tablet,Accessories,931.3,9,02-18-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1269,Isaac,Monitor,Computers,1291.95,10,01-11-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1270,Alice,Tablet,Accessories,963.17,8,01-16-2024,Los Angeles,California,USA,34.0522,-118.2437
+1271,David,Headphones,Accessories,185.47,7,01-18-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1272,Ava,Keyboard,Accessories,786.39,6,01-25-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1273,Emma,Headphones,Accessories,358.41,4,01-26-2024,Los Angeles,California,USA,34.0522,-118.2437
+1274,Hannah,Monitor,Computers,898.77,3,01-02-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1275,Charlie,Phone,Electronics,365.54,8,03-07-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1276,David,Camera,Mobile Devices,661.03,4,03-12-2024,Paris,Île-de-France,France,48.8566,2.3522
+1277,Sophia,Smartwatch,Computers,393.78,8,02-07-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1278,Noah,Mouse,Accessories,386.49,4,02-14-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1279,Ava,Laptop,Accessories,1094.3,2,03-09-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1280,Bob,Printer,Accessories,318.84,5,03-27-2024,Paris,Île-de-France,France,48.8566,2.3522
+1281,Noah,Printer,Accessories,299.67,5,03-22-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1282,Bob,Keyboard,Accessories,134.21,10,02-15-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1283,Bob,Tablet,Accessories,1176.17,4,01-06-2024,Toronto,Ontario,Canada,43.651,-79.347
+1284,Bob,Mouse,Accessories,484.36,8,03-05-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1285,Liam,Smartwatch,Computers,782.32,9,01-20-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1286,Sophia,Mouse,Accessories,263.09,8,03-10-2024,Paris,Île-de-France,France,48.8566,2.3522
+1287,Isaac,Headphones,Accessories,295.01,10,01-17-2024,Paris,Île-de-France,France,48.8566,2.3522
+1288,Ava,Smartwatch,Computers,416.34,2,01-13-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1289,Isaac,Smartwatch,Computers,743.05,5,02-28-2024,Berlin,Berlin,Germany,52.52,13.405
+1290,Emma,Monitor,Computers,586.83,7,03-21-2024,Paris,Île-de-France,France,48.8566,2.3522
+1291,Emma,Tablet,Accessories,1069.18,8,01-28-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1292,Olivia,Mouse,Accessories,101.55,5,01-02-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1293,Olivia,Monitor,Computers,782.02,7,01-10-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1294,Alice,Keyboard,Accessories,718.0,6,03-21-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1295,Olivia,Camera,Mobile Devices,327.22,8,03-19-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1296,Emma,Monitor,Computers,697.92,8,01-02-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1297,Bob,Tablet,Accessories,437.24,9,03-15-2024,Paris,Île-de-France,France,48.8566,2.3522
+1298,Noah,Laptop,Accessories,1210.4,3,01-25-2024,Berlin,Berlin,Germany,52.52,13.405
+1299,Ava,Laptop,Accessories,1034.42,2,03-05-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1300,Jack,Phone,Electronics,837.92,6,02-01-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1301,Emma,Smartwatch,Computers,797.69,6,01-16-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1302,Charlie,Tablet,Accessories,1262.86,2,01-26-2024,Berlin,Berlin,Germany,52.52,13.405
+1303,Grace,Tablet,Accessories,1379.26,3,03-12-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1304,Sophia,Keyboard,Accessories,103.09,3,01-01-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1305,Jack,Monitor,Computers,374.32,5,01-01-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1306,Noah,Headphones,Accessories,292.06,2,01-05-2024,Paris,Île-de-France,France,48.8566,2.3522
+1307,Alice,Tablet,Accessories,527.84,3,02-02-2024,Paris,Île-de-France,France,48.8566,2.3522
+1308,Frank,Tablet,Accessories,1087.4,1,01-01-2024,New York,New York,USA,40.7128,-74.006
+1309,Jack,Printer,Accessories,246.43,2,03-21-2024,New York,New York,USA,40.7128,-74.006
+1310,Hannah,Mouse,Accessories,127.94,7,03-15-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1311,Noah,Camera,Mobile Devices,1219.13,4,03-29-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1312,Bob,Printer,Accessories,569.95,4,01-14-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1313,Hannah,Headphones,Accessories,142.99,2,01-08-2024,Paris,Île-de-France,France,48.8566,2.3522
+1314,Alice,Smartwatch,Computers,562.7,1,01-03-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1315,Emma,Tablet,Accessories,838.11,9,02-26-2024,New York,New York,USA,40.7128,-74.006
+1316,Isaac,Tablet,Accessories,749.78,3,01-23-2024,Los Angeles,California,USA,34.0522,-118.2437
+1317,Emma,Laptop,Accessories,1507.03,2,01-30-2024,Toronto,Ontario,Canada,43.651,-79.347
+1318,Ava,Smartwatch,Computers,338.5,9,03-06-2024,Los Angeles,California,USA,34.0522,-118.2437
+1319,Emma,Printer,Accessories,290.25,1,03-16-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1320,Alice,Phone,Electronics,791.06,4,01-05-2024,Paris,Île-de-France,France,48.8566,2.3522
+1321,Liam,Camera,Mobile Devices,1385.97,10,01-23-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1322,Frank,Monitor,Computers,394.88,8,02-12-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1323,David,Printer,Accessories,229.43,8,01-06-2024,Paris,Île-de-France,France,48.8566,2.3522
+1324,Noah,Mouse,Accessories,461.27,4,03-23-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1325,Olivia,Monitor,Computers,811.28,3,02-29-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1326,Noah,Laptop,Accessories,1000.42,3,02-15-2024,Paris,Île-de-France,France,48.8566,2.3522
+1327,Jack,Smartwatch,Computers,764.57,10,01-01-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1328,Olivia,Tablet,Accessories,564.85,5,03-23-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1329,Olivia,Headphones,Accessories,373.28,8,01-09-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1330,Olivia,Tablet,Accessories,492.17,8,02-17-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1331,Liam,Headphones,Accessories,246.83,1,03-10-2024,Los Angeles,California,USA,34.0522,-118.2437
+1332,Charlie,Monitor,Computers,692.94,1,02-02-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1333,Hannah,Laptop,Accessories,885.15,5,03-30-2024,Toronto,Ontario,Canada,43.651,-79.347
+1334,Ava,Printer,Accessories,271.79,9,03-26-2024,Toronto,Ontario,Canada,43.651,-79.347
+1335,Noah,Printer,Accessories,209.95,9,01-19-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1336,Isaac,Monitor,Computers,658.96,5,01-01-2024,Berlin,Berlin,Germany,52.52,13.405
+1337,Frank,Smartwatch,Computers,544.07,4,03-06-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1338,Alice,Mouse,Accessories,476.97,9,03-09-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1339,Frank,Phone,Electronics,823.31,7,03-09-2024,Berlin,Berlin,Germany,52.52,13.405
+1340,Jack,Keyboard,Accessories,847.25,6,01-31-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1341,Sophia,Headphones,Accessories,250.13,9,01-24-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1342,Ava,Headphones,Accessories,293.84,9,02-08-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1343,Olivia,Monitor,Computers,415.28,6,01-06-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1344,Liam,Phone,Electronics,796.04,3,01-28-2024,Toronto,Ontario,Canada,43.651,-79.347
+1345,Sophia,Keyboard,Accessories,264.18,2,01-19-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1346,Olivia,Monitor,Computers,924.56,6,03-12-2024,New York,New York,USA,40.7128,-74.006
+1347,Liam,Phone,Electronics,778.97,8,02-03-2024,Berlin,Berlin,Germany,52.52,13.405
+1348,Jack,Printer,Accessories,270.27,8,01-26-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1349,Liam,Headphones,Accessories,171.94,9,02-17-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1350,David,Keyboard,Accessories,315.88,10,02-18-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1351,Olivia,Mouse,Accessories,567.59,8,01-18-2024,Los Angeles,California,USA,34.0522,-118.2437
+1352,Olivia,Tablet,Accessories,970.93,9,01-03-2024,Los Angeles,California,USA,34.0522,-118.2437
+1353,David,Keyboard,Accessories,761.58,4,03-22-2024,Paris,Île-de-France,France,48.8566,2.3522
+1354,Jack,Tablet,Accessories,1071.7,9,03-04-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1355,Alice,Mouse,Accessories,534.56,4,02-10-2024,Paris,Île-de-France,France,48.8566,2.3522
+1356,Jack,Printer,Accessories,491.32,10,01-28-2024,Los Angeles,California,USA,34.0522,-118.2437
+1357,Bob,Monitor,Computers,1006.74,7,02-15-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1358,Grace,Tablet,Accessories,1130.98,6,02-05-2024,Los Angeles,California,USA,34.0522,-118.2437
+1359,Alice,Laptop,Accessories,1587.36,1,03-18-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1360,Charlie,Laptop,Accessories,942.97,10,02-10-2024,Paris,Île-de-France,France,48.8566,2.3522
+1361,Noah,Printer,Accessories,554.8,5,01-02-2024,Los Angeles,California,USA,34.0522,-118.2437
+1362,Ava,Monitor,Computers,1123.69,9,02-11-2024,Berlin,Berlin,Germany,52.52,13.405
+1363,Grace,Laptop,Accessories,915.86,3,03-21-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1364,Grace,Camera,Mobile Devices,1089.34,3,02-01-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1365,Grace,Laptop,Accessories,1297.75,4,01-14-2024,New York,New York,USA,40.7128,-74.006
+1366,Charlie,Smartwatch,Computers,423.55,5,01-17-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1367,Grace,Keyboard,Accessories,137.27,10,03-05-2024,Los Angeles,California,USA,34.0522,-118.2437
+1368,Ava,Camera,Mobile Devices,511.53,2,02-07-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1369,Ava,Smartwatch,Computers,664.63,6,02-10-2024,Berlin,Berlin,Germany,52.52,13.405
+1370,Sophia,Laptop,Accessories,879.17,3,01-31-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1371,Hannah,Camera,Mobile Devices,1185.36,8,03-14-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1372,Noah,Mouse,Accessories,111.71,6,03-01-2024,London,England,UK,51.5074,-0.1278
+1373,Emma,Phone,Electronics,1357.49,4,02-03-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1374,Liam,Tablet,Accessories,1391.88,9,03-17-2024,Berlin,Berlin,Germany,52.52,13.405
+1375,Isaac,Camera,Mobile Devices,324.36,10,01-19-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1376,Frank,Laptop,Accessories,790.31,10,01-02-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1377,Olivia,Headphones,Accessories,169.49,3,03-17-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1378,Isaac,Printer,Accessories,385.66,6,02-28-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1379,Alice,Mouse,Accessories,411.24,7,03-17-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1380,Olivia,Monitor,Computers,405.06,6,03-25-2024,Toronto,Ontario,Canada,43.651,-79.347
+1381,Noah,Smartwatch,Computers,565.01,3,03-08-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1382,Charlie,Monitor,Computers,752.74,3,02-10-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1383,Jack,Tablet,Accessories,446.82,7,02-18-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1384,Jack,Phone,Electronics,819.85,8,01-27-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1385,Jack,Phone,Electronics,438.2,4,03-06-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1386,Alice,Phone,Electronics,1384.53,6,02-15-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1387,Alice,Monitor,Computers,845.39,7,01-10-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1388,David,Printer,Accessories,493.98,6,02-19-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1389,Jack,Phone,Electronics,1488.15,4,02-17-2024,London,England,UK,51.5074,-0.1278
+1390,Alice,Laptop,Accessories,721.98,3,01-10-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1391,Bob,Headphones,Accessories,381.88,1,02-05-2024,Berlin,Berlin,Germany,52.52,13.405
+1392,Charlie,Keyboard,Accessories,761.22,6,03-03-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1393,Noah,Headphones,Accessories,148.42,9,01-25-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1394,Alice,Keyboard,Accessories,395.05,7,03-07-2024,Los Angeles,California,USA,34.0522,-118.2437
+1395,Frank,Tablet,Accessories,822.41,7,02-13-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1396,Hannah,Camera,Mobile Devices,1413.6,8,01-19-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1397,Noah,Printer,Accessories,484.74,4,03-27-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1398,Bob,Keyboard,Accessories,240.66,3,03-22-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1399,Noah,Tablet,Accessories,821.78,1,03-07-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1400,Olivia,Headphones,Accessories,246.71,8,01-13-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1401,Liam,Mouse,Accessories,241.29,7,03-09-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1402,Charlie,Headphones,Accessories,160.35,10,02-17-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1403,Emma,Camera,Mobile Devices,1150.64,10,02-22-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1404,Isaac,Phone,Electronics,458.62,1,01-19-2024,Los Angeles,California,USA,34.0522,-118.2437
+1405,Charlie,Phone,Electronics,1426.07,9,01-11-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1406,Charlie,Mouse,Accessories,216.96,5,01-21-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1407,Alice,Tablet,Accessories,1107.13,10,01-30-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1408,Noah,Monitor,Computers,558.72,3,01-31-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1409,Noah,Tablet,Accessories,1087.73,2,03-23-2024,Berlin,Berlin,Germany,52.52,13.405
+1410,David,Mouse,Accessories,254.82,10,02-13-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1411,Sophia,Smartwatch,Computers,589.88,1,03-25-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1412,Hannah,Mouse,Accessories,303.85,4,02-22-2024,London,England,UK,51.5074,-0.1278
+1413,Hannah,Keyboard,Accessories,677.07,8,03-06-2024,Paris,Île-de-France,France,48.8566,2.3522
+1414,Bob,Headphones,Accessories,227.62,2,03-20-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1415,Bob,Phone,Electronics,1122.69,6,03-29-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1416,Emma,Camera,Mobile Devices,464.04,6,03-12-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1417,Emma,Tablet,Accessories,1003.7,8,01-09-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1418,Hannah,Phone,Electronics,987.66,5,01-19-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1419,Liam,Tablet,Accessories,1247.88,2,03-08-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1420,Sophia,Camera,Mobile Devices,450.48,3,02-26-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1421,Bob,Keyboard,Accessories,371.32,6,02-17-2024,New York,New York,USA,40.7128,-74.006
+1422,Grace,Laptop,Accessories,1538.18,2,01-09-2024,Los Angeles,California,USA,34.0522,-118.2437
+1423,Hannah,Laptop,Accessories,1012.8,6,02-08-2024,Berlin,Berlin,Germany,52.52,13.405
+1424,Frank,Tablet,Accessories,1235.05,5,02-12-2024,London,England,UK,51.5074,-0.1278
+1425,Bob,Laptop,Accessories,888.12,3,02-04-2024,Paris,Île-de-France,France,48.8566,2.3522
+1426,Frank,Monitor,Computers,570.7,4,02-21-2024,Paris,Île-de-France,France,48.8566,2.3522
+1427,Bob,Headphones,Accessories,216.15,1,02-29-2024,Los Angeles,California,USA,34.0522,-118.2437
+1428,Liam,Printer,Accessories,344.59,5,01-18-2024,New York,New York,USA,40.7128,-74.006
+1429,Grace,Camera,Mobile Devices,1330.5,4,02-11-2024,Berlin,Berlin,Germany,52.52,13.405
+1430,Olivia,Smartwatch,Computers,321.68,3,01-13-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1431,Hannah,Mouse,Accessories,204.09,8,03-10-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1432,Hannah,Tablet,Accessories,1216.14,9,03-25-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1433,Bob,Phone,Electronics,551.89,1,02-02-2024,New York,New York,USA,40.7128,-74.006
+1434,Charlie,Camera,Mobile Devices,1115.51,10,02-03-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1435,Emma,Mouse,Accessories,342.4,3,03-11-2024,London,England,UK,51.5074,-0.1278
+1436,David,Smartwatch,Computers,518.92,1,03-03-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1437,Hannah,Keyboard,Accessories,503.36,1,02-23-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1438,David,Camera,Mobile Devices,1010.79,5,01-30-2024,Paris,Île-de-France,France,48.8566,2.3522
+1439,Jack,Mouse,Accessories,547.27,1,03-14-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1440,Sophia,Headphones,Accessories,186.58,1,03-23-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1441,Isaac,Keyboard,Accessories,129.93,4,03-28-2024,Berlin,Berlin,Germany,52.52,13.405
+1442,Noah,Keyboard,Accessories,236.99,4,02-26-2024,Los Angeles,California,USA,34.0522,-118.2437
+1443,Frank,Laptop,Accessories,629.76,4,01-11-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1444,Olivia,Camera,Mobile Devices,697.16,8,02-25-2024,New York,New York,USA,40.7128,-74.006
+1445,Isaac,Mouse,Accessories,237.11,5,01-14-2024,Toronto,Ontario,Canada,43.651,-79.347
+1446,Emma,Tablet,Accessories,400.8,7,03-04-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1447,Jack,Camera,Mobile Devices,406.75,7,01-03-2024,Paris,Île-de-France,France,48.8566,2.3522
+1448,Emma,Phone,Electronics,874.02,4,03-02-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1449,Emma,Camera,Mobile Devices,948.43,9,01-24-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1450,Hannah,Mouse,Accessories,139.53,3,02-10-2024,Toronto,Ontario,Canada,43.651,-79.347
+1451,Ava,Headphones,Accessories,227.83,7,02-17-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1452,Grace,Printer,Accessories,492.73,7,03-05-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1453,Charlie,Tablet,Accessories,1343.52,5,01-18-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1454,Charlie,Headphones,Accessories,286.63,1,03-03-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1455,Jack,Mouse,Accessories,102.31,3,02-12-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1456,Liam,Headphones,Accessories,339.43,2,02-03-2024,London,England,UK,51.5074,-0.1278
+1457,Emma,Laptop,Accessories,622.08,6,01-09-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1458,Noah,Keyboard,Accessories,145.74,3,02-06-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1459,Jack,Smartwatch,Computers,718.52,5,01-29-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1460,Isaac,Keyboard,Accessories,700.26,7,02-07-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1461,Jack,Printer,Accessories,580.88,7,01-20-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1462,Liam,Tablet,Accessories,1227.66,9,01-06-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1463,Isaac,Headphones,Accessories,273.49,2,03-10-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1464,Emma,Tablet,Accessories,419.98,10,01-10-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1465,Hannah,Camera,Mobile Devices,549.79,4,02-11-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1466,Sophia,Mouse,Accessories,236.48,5,03-24-2024,Los Angeles,California,USA,34.0522,-118.2437
+1467,Noah,Smartwatch,Computers,577.59,10,03-28-2024,New York,New York,USA,40.7128,-74.006
+1468,Sophia,Keyboard,Accessories,651.84,9,03-05-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1469,Alice,Mouse,Accessories,152.15,10,03-08-2024,Paris,Île-de-France,France,48.8566,2.3522
+1470,Hannah,Monitor,Computers,379.39,7,02-13-2024,New York,New York,USA,40.7128,-74.006
+1471,Ava,Laptop,Accessories,1444.73,6,03-17-2024,Toronto,Ontario,Canada,43.651,-79.347
+1472,Ava,Keyboard,Accessories,643.65,6,01-14-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1473,Jack,Keyboard,Accessories,133.82,7,01-06-2024,Los Angeles,California,USA,34.0522,-118.2437
+1474,Hannah,Phone,Electronics,969.35,6,03-11-2024,Los Angeles,California,USA,34.0522,-118.2437
+1475,Noah,Smartwatch,Computers,543.94,5,02-08-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1476,Jack,Monitor,Computers,942.11,3,03-21-2024,Toronto,Ontario,Canada,43.651,-79.347
+1477,Isaac,Printer,Accessories,445.77,8,01-09-2024,London,England,UK,51.5074,-0.1278
+1478,Liam,Printer,Accessories,449.59,9,01-22-2024,Paris,Île-de-France,France,48.8566,2.3522
+1479,Hannah,Tablet,Accessories,1230.05,4,02-19-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1480,Jack,Monitor,Computers,363.87,2,03-10-2024,London,England,UK,51.5074,-0.1278
+1481,Ava,Keyboard,Accessories,518.37,4,03-11-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1482,David,Laptop,Accessories,986.89,5,01-11-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1483,Isaac,Headphones,Accessories,151.27,7,01-03-2024,London,England,UK,51.5074,-0.1278
+1484,Sophia,Smartwatch,Computers,428.0,8,01-31-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1485,Charlie,Smartwatch,Computers,509.53,1,01-21-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1486,Bob,Laptop,Accessories,1088.66,4,01-04-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1487,Alice,Tablet,Accessories,1126.12,8,01-10-2024,London,England,UK,51.5074,-0.1278
+1488,Noah,Headphones,Accessories,165.92,8,01-06-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1489,Charlie,Keyboard,Accessories,546.08,2,01-25-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1490,Sophia,Printer,Accessories,436.14,6,01-04-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1491,Isaac,Camera,Mobile Devices,410.08,3,03-22-2024,New York,New York,USA,40.7128,-74.006
+1492,Noah,Printer,Accessories,216.45,7,01-14-2024,Berlin,Berlin,Germany,52.52,13.405
+1493,Jack,Smartwatch,Computers,345.2,2,03-13-2024,Paris,Île-de-France,France,48.8566,2.3522
+1494,Jack,Smartwatch,Computers,679.94,4,03-04-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1495,Jack,Headphones,Accessories,371.49,8,03-05-2024,Berlin,Berlin,Germany,52.52,13.405
+1496,Sophia,Keyboard,Accessories,886.56,9,02-13-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1497,Jack,Camera,Mobile Devices,304.37,8,02-06-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1498,Sophia,Monitor,Computers,1096.1,9,03-17-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1499,David,Smartwatch,Computers,448.74,4,03-19-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1500,Liam,Camera,Mobile Devices,898.38,10,01-16-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1501,Grace,Mouse,Accessories,537.81,7,01-08-2024,Los Angeles,California,USA,34.0522,-118.2437
+1502,David,Monitor,Computers,1201.19,7,03-17-2024,Paris,Île-de-France,France,48.8566,2.3522
+1503,Ava,Headphones,Accessories,156.38,7,03-10-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1504,Jack,Monitor,Computers,624.5,8,02-20-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1505,Sophia,Phone,Electronics,758.96,3,03-18-2024,London,England,UK,51.5074,-0.1278
+1506,Alice,Mouse,Accessories,197.89,4,01-30-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1507,Hannah,Headphones,Accessories,126.86,7,02-02-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1508,Hannah,Headphones,Accessories,193.86,10,03-05-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1509,Hannah,Tablet,Accessories,723.57,7,03-28-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1510,Charlie,Laptop,Accessories,1056.95,7,03-29-2024,Toronto,Ontario,Canada,43.651,-79.347
+1511,Frank,Laptop,Accessories,990.65,3,03-25-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1512,Ava,Headphones,Accessories,298.83,1,02-08-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1513,Ava,Camera,Mobile Devices,641.57,10,03-12-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1514,Hannah,Mouse,Accessories,246.39,8,01-06-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1515,Grace,Laptop,Accessories,703.42,3,03-28-2024,Berlin,Berlin,Germany,52.52,13.405
+1516,Emma,Printer,Accessories,282.75,1,02-13-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1517,Grace,Mouse,Accessories,170.7,3,03-07-2024,New York,New York,USA,40.7128,-74.006
+1518,Alice,Monitor,Computers,875.47,8,02-07-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1519,David,Laptop,Accessories,970.96,3,03-02-2024,Los Angeles,California,USA,34.0522,-118.2437
+1520,Emma,Headphones,Accessories,296.05,7,02-28-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1521,Emma,Mouse,Accessories,573.75,1,01-08-2024,Paris,Île-de-France,France,48.8566,2.3522
+1522,Jack,Phone,Electronics,391.33,1,02-14-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1523,Liam,Camera,Mobile Devices,1314.27,5,03-05-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1524,Emma,Phone,Electronics,1098.76,5,03-23-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1525,David,Keyboard,Accessories,115.71,1,03-01-2024,Los Angeles,California,USA,34.0522,-118.2437
+1526,Charlie,Camera,Mobile Devices,1370.33,9,01-04-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1527,Ava,Mouse,Accessories,350.51,10,03-13-2024,Berlin,Berlin,Germany,52.52,13.405
+1528,Frank,Tablet,Accessories,368.6,5,02-12-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1529,Emma,Laptop,Accessories,1566.31,4,01-07-2024,London,England,UK,51.5074,-0.1278
+1530,Noah,Monitor,Computers,449.36,4,03-17-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1531,Sophia,Printer,Accessories,258.36,3,03-27-2024,Los Angeles,California,USA,34.0522,-118.2437
+1532,Alice,Camera,Mobile Devices,1282.54,4,03-10-2024,Toronto,Ontario,Canada,43.651,-79.347
+1533,Isaac,Smartwatch,Computers,717.62,7,01-28-2024,New York,New York,USA,40.7128,-74.006
+1534,Emma,Mouse,Accessories,128.02,3,02-17-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1535,Hannah,Monitor,Computers,351.5,6,02-19-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1536,Olivia,Tablet,Accessories,1284.91,3,01-03-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1537,Ava,Printer,Accessories,278.07,9,01-07-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1538,Jack,Keyboard,Accessories,149.39,10,03-15-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1539,Emma,Laptop,Accessories,1212.9,1,03-11-2024,Paris,Île-de-France,France,48.8566,2.3522
+1540,Ava,Tablet,Accessories,669.99,4,02-29-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1541,Sophia,Printer,Accessories,567.57,4,02-15-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1542,Jack,Camera,Mobile Devices,1192.05,8,01-07-2024,Los Angeles,California,USA,34.0522,-118.2437
+1543,Hannah,Printer,Accessories,445.79,6,01-18-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1544,Ava,Phone,Electronics,1120.68,6,02-22-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1545,Bob,Camera,Mobile Devices,765.84,9,01-11-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1546,Frank,Mouse,Accessories,332.17,7,01-02-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1547,Grace,Mouse,Accessories,371.63,10,03-15-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1548,Isaac,Mouse,Accessories,517.75,3,03-12-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1549,Liam,Laptop,Accessories,687.66,5,03-20-2024,Paris,Île-de-France,France,48.8566,2.3522
+1550,Ava,Monitor,Computers,328.8,3,03-06-2024,London,England,UK,51.5074,-0.1278
+1551,Olivia,Headphones,Accessories,142.55,5,01-19-2024,Paris,Île-de-France,France,48.8566,2.3522
+1552,Noah,Keyboard,Accessories,274.09,10,03-08-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1553,Hannah,Printer,Accessories,508.29,9,03-13-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1554,Liam,Tablet,Accessories,898.72,3,02-27-2024,Toronto,Ontario,Canada,43.651,-79.347
+1555,Sophia,Monitor,Computers,339.65,4,02-09-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1556,Grace,Tablet,Accessories,1160.25,2,01-13-2024,Los Angeles,California,USA,34.0522,-118.2437
+1557,Frank,Tablet,Accessories,674.07,8,01-27-2024,Berlin,Berlin,Germany,52.52,13.405
+1558,Grace,Printer,Accessories,502.11,1,02-03-2024,London,England,UK,51.5074,-0.1278
+1559,Alice,Keyboard,Accessories,738.52,3,03-11-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1560,Frank,Keyboard,Accessories,557.18,9,01-23-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1561,Jack,Printer,Accessories,222.96,1,01-24-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1562,Charlie,Printer,Accessories,373.42,9,03-27-2024,Berlin,Berlin,Germany,52.52,13.405
+1563,Jack,Headphones,Accessories,257.85,7,03-10-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1564,Grace,Laptop,Accessories,753.18,2,01-17-2024,New York,New York,USA,40.7128,-74.006
+1565,Emma,Smartwatch,Computers,385.67,8,01-15-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1566,Olivia,Printer,Accessories,265.94,5,02-12-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1567,Sophia,Camera,Mobile Devices,1473.21,2,03-24-2024,Toronto,Ontario,Canada,43.651,-79.347
+1568,Hannah,Camera,Mobile Devices,495.99,2,02-19-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1569,Liam,Mouse,Accessories,500.52,7,03-03-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1570,Bob,Mouse,Accessories,103.7,6,02-02-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1571,Sophia,Mouse,Accessories,286.37,10,01-19-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1572,Jack,Laptop,Accessories,904.69,8,01-28-2024,London,England,UK,51.5074,-0.1278
+1573,Ava,Laptop,Accessories,615.9,8,01-19-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1574,Charlie,Phone,Electronics,660.56,1,01-03-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1575,Hannah,Phone,Electronics,1306.45,7,02-25-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1576,Isaac,Monitor,Computers,774.85,10,03-09-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1577,Isaac,Printer,Accessories,460.85,8,01-03-2024,London,England,UK,51.5074,-0.1278
+1578,Grace,Keyboard,Accessories,518.0,3,01-01-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1579,Bob,Camera,Mobile Devices,423.96,4,03-11-2024,Paris,Île-de-France,France,48.8566,2.3522
+1580,Jack,Laptop,Accessories,1345.29,2,01-11-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1581,Grace,Keyboard,Accessories,591.15,8,02-03-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1582,Jack,Tablet,Accessories,567.63,2,02-05-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1583,Isaac,Mouse,Accessories,309.23,10,01-27-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1584,Liam,Headphones,Accessories,255.67,10,02-26-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1585,Jack,Monitor,Computers,729.28,3,01-13-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1586,Alice,Headphones,Accessories,175.42,4,03-14-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1587,Liam,Tablet,Accessories,1036.46,5,03-06-2024,London,England,UK,51.5074,-0.1278
+1588,Alice,Laptop,Accessories,637.97,6,02-13-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1589,Isaac,Phone,Electronics,679.57,4,01-15-2024,Berlin,Berlin,Germany,52.52,13.405
+1590,Sophia,Laptop,Accessories,829.24,4,02-26-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1591,David,Printer,Accessories,364.69,5,02-23-2024,Berlin,Berlin,Germany,52.52,13.405
+1592,Isaac,Tablet,Accessories,871.04,2,02-17-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1593,Alice,Monitor,Computers,357.26,4,02-14-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1594,Alice,Printer,Accessories,407.13,8,01-15-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1595,Sophia,Headphones,Accessories,365.18,2,01-05-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1596,Emma,Smartwatch,Computers,727.53,6,01-29-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1597,Sophia,Mouse,Accessories,298.45,3,01-12-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1598,Emma,Camera,Mobile Devices,525.78,2,02-26-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1599,Ava,Mouse,Accessories,500.51,5,03-08-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1600,Frank,Mouse,Accessories,303.88,8,02-19-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1601,Isaac,Laptop,Accessories,1538.33,9,01-20-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1602,Hannah,Printer,Accessories,593.23,7,02-18-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1603,Bob,Mouse,Accessories,187.82,4,01-14-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1604,Hannah,Printer,Accessories,296.95,9,03-10-2024,Berlin,Berlin,Germany,52.52,13.405
+1605,Charlie,Tablet,Accessories,592.74,2,03-05-2024,New York,New York,USA,40.7128,-74.006
+1606,Liam,Camera,Mobile Devices,366.44,5,01-09-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1607,Sophia,Camera,Mobile Devices,306.36,1,03-03-2024,Los Angeles,California,USA,34.0522,-118.2437
+1608,Emma,Tablet,Accessories,837.47,3,03-26-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1609,Liam,Laptop,Accessories,603.68,4,03-07-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1610,Isaac,Phone,Electronics,365.9,5,03-23-2024,Berlin,Berlin,Germany,52.52,13.405
+1611,Sophia,Phone,Electronics,394.53,3,01-17-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1612,Grace,Monitor,Computers,950.34,2,01-08-2024,Berlin,Berlin,Germany,52.52,13.405
+1613,Alice,Laptop,Accessories,1081.52,3,01-08-2024,Paris,Île-de-France,France,48.8566,2.3522
+1614,Hannah,Mouse,Accessories,279.8,7,02-25-2024,New York,New York,USA,40.7128,-74.006
+1615,Sophia,Printer,Accessories,462.94,9,02-04-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1616,Jack,Keyboard,Accessories,159.27,4,02-21-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1617,Charlie,Printer,Accessories,499.08,6,01-03-2024,Paris,Île-de-France,France,48.8566,2.3522
+1618,Alice,Camera,Mobile Devices,853.42,6,03-12-2024,Paris,Île-de-France,France,48.8566,2.3522
+1619,Olivia,Tablet,Accessories,877.92,1,01-30-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1620,Charlie,Camera,Mobile Devices,1160.86,8,03-09-2024,Toronto,Ontario,Canada,43.651,-79.347
+1621,Grace,Headphones,Accessories,293.47,1,01-20-2024,Berlin,Berlin,Germany,52.52,13.405
+1622,Frank,Laptop,Accessories,1361.63,9,01-02-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1623,Jack,Keyboard,Accessories,259.22,10,03-02-2024,Berlin,Berlin,Germany,52.52,13.405
+1624,Isaac,Camera,Mobile Devices,1066.07,10,03-21-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1625,Noah,Monitor,Computers,961.73,2,01-05-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1626,Alice,Smartwatch,Computers,332.35,4,03-13-2024,Los Angeles,California,USA,34.0522,-118.2437
+1627,David,Mouse,Accessories,313.98,4,03-02-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1628,Hannah,Keyboard,Accessories,504.81,4,03-11-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1629,Olivia,Smartwatch,Computers,417.48,2,01-19-2024,London,England,UK,51.5074,-0.1278
+1630,Sophia,Smartwatch,Computers,633.99,6,01-18-2024,London,England,UK,51.5074,-0.1278
+1631,Noah,Tablet,Accessories,474.92,5,03-25-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1632,Bob,Camera,Mobile Devices,397.86,1,01-05-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1633,Isaac,Monitor,Computers,1172.87,2,01-02-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1634,Charlie,Tablet,Accessories,661.5,9,01-01-2024,Toronto,Ontario,Canada,43.651,-79.347
+1635,Jack,Camera,Mobile Devices,501.53,9,03-23-2024,Los Angeles,California,USA,34.0522,-118.2437
+1636,Liam,Camera,Mobile Devices,914.54,5,01-10-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1637,Hannah,Headphones,Accessories,282.88,7,03-31-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1638,Isaac,Printer,Accessories,551.47,5,02-11-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1639,Hannah,Tablet,Accessories,1225.95,8,01-10-2024,Los Angeles,California,USA,34.0522,-118.2437
+1640,Liam,Phone,Electronics,412.2,4,02-09-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1641,Frank,Printer,Accessories,260.93,2,03-21-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1642,Bob,Smartwatch,Computers,541.83,7,02-08-2024,London,England,UK,51.5074,-0.1278
+1643,Emma,Tablet,Accessories,635.38,2,03-06-2024,Paris,Île-de-France,France,48.8566,2.3522
+1644,Charlie,Smartwatch,Computers,589.08,8,03-09-2024,Toronto,Ontario,Canada,43.651,-79.347
+1645,Jack,Camera,Mobile Devices,1074.99,7,01-30-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1646,Hannah,Printer,Accessories,490.06,8,01-29-2024,Los Angeles,California,USA,34.0522,-118.2437
+1647,Sophia,Headphones,Accessories,252.73,7,03-19-2024,Berlin,Berlin,Germany,52.52,13.405
+1648,Noah,Smartwatch,Computers,513.7,7,03-23-2024,Berlin,Berlin,Germany,52.52,13.405
+1649,Ava,Mouse,Accessories,517.42,3,01-21-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1650,Hannah,Laptop,Accessories,934.48,3,01-03-2024,Paris,Île-de-France,France,48.8566,2.3522
+1651,Noah,Keyboard,Accessories,747.1,1,02-05-2024,Berlin,Berlin,Germany,52.52,13.405
+1652,Isaac,Camera,Mobile Devices,1102.65,3,02-17-2024,Berlin,Berlin,Germany,52.52,13.405
+1653,Noah,Monitor,Computers,715.12,3,01-01-2024,London,England,UK,51.5074,-0.1278
+1654,Noah,Laptop,Accessories,1569.28,10,02-12-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1655,Bob,Smartwatch,Computers,375.13,4,01-08-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1656,Isaac,Camera,Mobile Devices,740.16,1,01-04-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1657,Jack,Smartwatch,Computers,325.65,2,01-15-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1658,David,Phone,Electronics,561.5,1,03-11-2024,Los Angeles,California,USA,34.0522,-118.2437
+1659,Noah,Phone,Electronics,618.58,5,01-30-2024,Berlin,Berlin,Germany,52.52,13.405
+1660,Frank,Headphones,Accessories,230.1,10,02-29-2024,Paris,Île-de-France,France,48.8566,2.3522
+1661,Bob,Monitor,Computers,326.45,2,03-22-2024,New York,New York,USA,40.7128,-74.006
+1662,Frank,Camera,Mobile Devices,991.43,6,02-28-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1663,Frank,Tablet,Accessories,770.47,9,03-09-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1664,Grace,Tablet,Accessories,446.84,3,03-01-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1665,Isaac,Camera,Mobile Devices,1171.75,9,02-20-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1666,Emma,Mouse,Accessories,199.91,2,02-17-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1667,Jack,Monitor,Computers,994.74,7,01-23-2024,London,England,UK,51.5074,-0.1278
+1668,Noah,Mouse,Accessories,135.05,5,02-10-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1669,Ava,Headphones,Accessories,358.18,10,01-19-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1670,Charlie,Smartwatch,Computers,608.23,4,01-14-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1671,Emma,Headphones,Accessories,316.08,5,02-14-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1672,Isaac,Camera,Mobile Devices,671.01,2,02-25-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1673,Grace,Smartwatch,Computers,693.56,10,02-03-2024,New York,New York,USA,40.7128,-74.006
+1674,Jack,Camera,Mobile Devices,1376.24,3,03-02-2024,New York,New York,USA,40.7128,-74.006
+1675,Ava,Tablet,Accessories,304.3,3,02-08-2024,New York,New York,USA,40.7128,-74.006
+1676,Sophia,Printer,Accessories,332.52,6,03-19-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1677,Charlie,Camera,Mobile Devices,1193.89,6,03-21-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1678,Grace,Phone,Electronics,385.0,2,01-29-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1679,Sophia,Phone,Electronics,467.98,4,03-16-2024,Toronto,Ontario,Canada,43.651,-79.347
+1680,Grace,Tablet,Accessories,1242.19,3,01-15-2024,London,England,UK,51.5074,-0.1278
+1681,Grace,Headphones,Accessories,391.93,5,03-03-2024,London,England,UK,51.5074,-0.1278
+1682,Charlie,Tablet,Accessories,388.27,3,03-06-2024,New York,New York,USA,40.7128,-74.006
+1683,Frank,Keyboard,Accessories,233.11,6,03-04-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1684,Emma,Monitor,Computers,646.38,4,01-16-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1685,Hannah,Tablet,Accessories,1190.17,1,01-07-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1686,David,Monitor,Computers,503.34,3,01-02-2024,Toronto,Ontario,Canada,43.651,-79.347
+1687,Jack,Printer,Accessories,365.65,10,01-02-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1688,Alice,Tablet,Accessories,1116.15,9,01-27-2024,New York,New York,USA,40.7128,-74.006
+1689,Sophia,Keyboard,Accessories,123.25,4,02-20-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1690,Grace,Keyboard,Accessories,540.59,5,03-13-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1691,Grace,Laptop,Accessories,1085.93,6,01-15-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1692,Liam,Tablet,Accessories,582.33,3,01-23-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1693,Charlie,Smartwatch,Computers,546.84,3,02-16-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1694,Grace,Headphones,Accessories,341.48,6,03-17-2024,Paris,Île-de-France,France,48.8566,2.3522
+1695,Alice,Phone,Electronics,416.46,7,01-10-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1696,Frank,Mouse,Accessories,367.84,6,02-01-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1697,David,Smartwatch,Computers,413.36,8,02-16-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1698,Olivia,Mouse,Accessories,372.92,8,01-15-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1699,Noah,Tablet,Accessories,500.32,1,01-13-2024,Toronto,Ontario,Canada,43.651,-79.347
+1700,Grace,Laptop,Accessories,1043.93,1,03-05-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1701,David,Keyboard,Accessories,811.33,1,02-26-2024,Los Angeles,California,USA,34.0522,-118.2437
+1702,Ava,Camera,Mobile Devices,519.78,2,01-20-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1703,Ava,Phone,Electronics,740.99,7,03-22-2024,Berlin,Berlin,Germany,52.52,13.405
+1704,Noah,Phone,Electronics,544.78,9,02-06-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1705,David,Phone,Electronics,1136.77,5,01-21-2024,Paris,Île-de-France,France,48.8566,2.3522
+1706,Hannah,Monitor,Computers,745.3,6,02-13-2024,Berlin,Berlin,Germany,52.52,13.405
+1707,Bob,Keyboard,Accessories,214.13,9,01-25-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1708,Sophia,Keyboard,Accessories,672.48,9,03-07-2024,Los Angeles,California,USA,34.0522,-118.2437
+1709,Frank,Laptop,Accessories,741.61,1,03-14-2024,Paris,Île-de-France,France,48.8566,2.3522
+1710,Grace,Mouse,Accessories,407.22,6,03-09-2024,Paris,Île-de-France,France,48.8566,2.3522
+1711,Jack,Keyboard,Accessories,316.01,8,01-20-2024,Los Angeles,California,USA,34.0522,-118.2437
+1712,Ava,Mouse,Accessories,268.68,9,03-20-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1713,Liam,Phone,Electronics,1416.38,8,02-19-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1714,Emma,Monitor,Computers,693.91,2,03-25-2024,Berlin,Berlin,Germany,52.52,13.405
+1715,Grace,Printer,Accessories,401.32,7,01-12-2024,Paris,Île-de-France,France,48.8566,2.3522
+1716,Hannah,Monitor,Computers,705.75,4,02-07-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1717,Alice,Mouse,Accessories,517.91,6,01-05-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1718,Emma,Laptop,Accessories,1504.51,8,01-02-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1719,Grace,Headphones,Accessories,261.5,7,01-12-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1720,Jack,Printer,Accessories,544.35,1,03-09-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1721,Liam,Headphones,Accessories,160.46,5,02-18-2024,New York,New York,USA,40.7128,-74.006
+1722,Sophia,Monitor,Computers,443.2,9,03-29-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1723,Grace,Keyboard,Accessories,497.01,7,03-10-2024,London,England,UK,51.5074,-0.1278
+1724,Isaac,Monitor,Computers,635.15,2,02-15-2024,London,England,UK,51.5074,-0.1278
+1725,Ava,Monitor,Computers,375.17,3,03-07-2024,Berlin,Berlin,Germany,52.52,13.405
+1726,Alice,Tablet,Accessories,683.58,1,03-09-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1727,Grace,Printer,Accessories,395.17,9,01-19-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1728,Alice,Printer,Accessories,528.92,1,03-31-2024,Berlin,Berlin,Germany,52.52,13.405
+1729,Ava,Monitor,Computers,1220.7,5,01-09-2024,London,England,UK,51.5074,-0.1278
+1730,Hannah,Laptop,Accessories,1381.3,4,03-28-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1731,Liam,Tablet,Accessories,348.9,10,01-13-2024,Paris,Île-de-France,France,48.8566,2.3522
+1732,Emma,Laptop,Accessories,1351.96,10,02-09-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1733,Olivia,Printer,Accessories,380.6,7,03-27-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1734,Noah,Monitor,Computers,1002.31,1,01-04-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1735,Jack,Keyboard,Accessories,442.57,3,02-07-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1736,Ava,Mouse,Accessories,459.48,2,01-04-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1737,Bob,Headphones,Accessories,378.8,9,01-30-2024,Toronto,Ontario,Canada,43.651,-79.347
+1738,Emma,Mouse,Accessories,346.99,1,01-06-2024,Paris,Île-de-France,France,48.8566,2.3522
+1739,Emma,Camera,Mobile Devices,878.53,9,01-23-2024,London,England,UK,51.5074,-0.1278
+1740,Emma,Printer,Accessories,264.01,10,03-05-2024,Los Angeles,California,USA,34.0522,-118.2437
+1741,David,Laptop,Accessories,718.07,2,02-06-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1742,Grace,Mouse,Accessories,259.16,5,03-27-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1743,Hannah,Laptop,Accessories,798.93,1,03-14-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1744,Jack,Tablet,Accessories,827.01,3,02-23-2024,New York,New York,USA,40.7128,-74.006
+1745,Liam,Laptop,Accessories,790.73,3,03-10-2024,New York,New York,USA,40.7128,-74.006
+1746,Charlie,Tablet,Accessories,930.57,9,03-09-2024,Berlin,Berlin,Germany,52.52,13.405
+1747,Ava,Laptop,Accessories,1511.48,1,02-10-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1748,Charlie,Phone,Electronics,1118.83,5,03-11-2024,Berlin,Berlin,Germany,52.52,13.405
+1749,Isaac,Mouse,Accessories,582.69,8,03-23-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1750,Grace,Camera,Mobile Devices,682.72,5,01-24-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1751,Ava,Tablet,Accessories,1369.63,4,01-20-2024,Paris,Île-de-France,France,48.8566,2.3522
+1752,Bob,Keyboard,Accessories,759.25,1,03-09-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1753,Bob,Tablet,Accessories,886.93,4,01-24-2024,London,England,UK,51.5074,-0.1278
+1754,Bob,Smartwatch,Computers,339.39,3,03-16-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1755,Grace,Keyboard,Accessories,811.64,10,02-07-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1756,Ava,Headphones,Accessories,125.1,10,02-13-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1757,Ava,Camera,Mobile Devices,883.84,1,02-11-2024,Toronto,Ontario,Canada,43.651,-79.347
+1758,Sophia,Camera,Mobile Devices,958.95,9,03-08-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1759,Grace,Monitor,Computers,947.63,8,02-13-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1760,Sophia,Keyboard,Accessories,209.96,5,03-22-2024,Berlin,Berlin,Germany,52.52,13.405
+1761,Emma,Mouse,Accessories,538.95,7,02-10-2024,London,England,UK,51.5074,-0.1278
+1762,Bob,Laptop,Accessories,874.71,2,02-22-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1763,Jack,Keyboard,Accessories,230.62,7,02-26-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1764,Isaac,Smartwatch,Computers,339.78,9,03-09-2024,London,England,UK,51.5074,-0.1278
+1765,David,Smartwatch,Computers,593.01,6,02-13-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1766,Olivia,Headphones,Accessories,154.06,5,03-06-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1767,Isaac,Tablet,Accessories,566.98,2,01-02-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1768,Frank,Keyboard,Accessories,812.52,7,03-16-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1769,Charlie,Keyboard,Accessories,851.06,3,01-26-2024,Paris,Île-de-France,France,48.8566,2.3522
+1770,Grace,Phone,Electronics,1207.4,9,01-03-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1771,Isaac,Headphones,Accessories,386.37,8,01-27-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1772,Jack,Headphones,Accessories,347.8,8,01-22-2024,New York,New York,USA,40.7128,-74.006
+1773,Frank,Camera,Mobile Devices,327.98,2,01-14-2024,Los Angeles,California,USA,34.0522,-118.2437
+1774,Hannah,Phone,Electronics,384.1,2,02-16-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1775,Alice,Tablet,Accessories,1224.43,10,01-14-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1776,Noah,Monitor,Computers,760.13,9,01-19-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1777,Hannah,Printer,Accessories,575.6,6,01-09-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1778,Olivia,Mouse,Accessories,220.07,5,01-27-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1779,Alice,Tablet,Accessories,645.75,6,02-27-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1780,Liam,Smartwatch,Computers,489.84,9,03-08-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1781,Charlie,Phone,Electronics,1107.59,5,03-25-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1782,David,Smartwatch,Computers,549.0,6,02-25-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1783,Hannah,Keyboard,Accessories,289.8,1,01-13-2024,Berlin,Berlin,Germany,52.52,13.405
+1784,Bob,Laptop,Accessories,1369.17,3,01-20-2024,Paris,Île-de-France,France,48.8566,2.3522
+1785,Hannah,Keyboard,Accessories,350.2,5,01-12-2024,London,England,UK,51.5074,-0.1278
+1786,Liam,Tablet,Accessories,349.13,10,01-20-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1787,Charlie,Headphones,Accessories,310.98,1,01-01-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1788,Olivia,Tablet,Accessories,1058.19,3,03-16-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1789,Ava,Monitor,Computers,386.36,5,03-10-2024,Los Angeles,California,USA,34.0522,-118.2437
+1790,Grace,Tablet,Accessories,1387.93,3,03-03-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1791,Hannah,Phone,Electronics,1283.36,2,01-20-2024,Los Angeles,California,USA,34.0522,-118.2437
+1792,Bob,Laptop,Accessories,620.52,5,03-17-2024,Los Angeles,California,USA,34.0522,-118.2437
+1793,Charlie,Printer,Accessories,240.35,7,03-28-2024,Berlin,Berlin,Germany,52.52,13.405
+1794,Noah,Monitor,Computers,859.4,10,03-16-2024,Berlin,Berlin,Germany,52.52,13.405
+1795,Grace,Printer,Accessories,202.25,6,01-24-2024,Los Angeles,California,USA,34.0522,-118.2437
+1796,Noah,Printer,Accessories,311.93,8,01-16-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1797,Emma,Printer,Accessories,392.76,4,01-18-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1798,Bob,Phone,Electronics,419.87,5,01-14-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1799,Bob,Laptop,Accessories,1183.79,7,03-08-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1800,Olivia,Keyboard,Accessories,304.04,1,01-24-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1801,David,Phone,Electronics,1043.19,1,03-19-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1802,Noah,Headphones,Accessories,105.05,8,02-18-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1803,Hannah,Tablet,Accessories,672.6,3,02-21-2024,Los Angeles,California,USA,34.0522,-118.2437
+1804,Frank,Printer,Accessories,555.0,5,03-29-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1805,Hannah,Phone,Electronics,766.47,10,02-05-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1806,Noah,Headphones,Accessories,166.45,8,01-17-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1807,Ava,Smartwatch,Computers,755.37,7,01-20-2024,Los Angeles,California,USA,34.0522,-118.2437
+1808,David,Printer,Accessories,300.96,5,01-31-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1809,Alice,Camera,Mobile Devices,1186.61,10,02-20-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1810,Olivia,Smartwatch,Computers,792.39,2,02-02-2024,London,England,UK,51.5074,-0.1278
+1811,Jack,Camera,Mobile Devices,1218.13,7,01-03-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1812,Bob,Tablet,Accessories,673.95,9,01-02-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1813,Jack,Headphones,Accessories,339.3,1,03-07-2024,New York,New York,USA,40.7128,-74.006
+1814,Frank,Laptop,Accessories,1171.53,2,01-29-2024,Los Angeles,California,USA,34.0522,-118.2437
+1815,Bob,Camera,Mobile Devices,1047.75,2,01-11-2024,Berlin,Berlin,Germany,52.52,13.405
+1816,Hannah,Printer,Accessories,598.31,3,03-04-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1817,Grace,Laptop,Accessories,964.28,10,01-08-2024,Toronto,Ontario,Canada,43.651,-79.347
+1818,Jack,Laptop,Accessories,949.04,8,02-27-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1819,Alice,Laptop,Accessories,1394.12,4,01-07-2024,Toronto,Ontario,Canada,43.651,-79.347
+1820,David,Smartwatch,Computers,491.65,4,02-05-2024,London,England,UK,51.5074,-0.1278
+1821,Alice,Keyboard,Accessories,789.71,2,03-19-2024,Paris,Île-de-France,France,48.8566,2.3522
+1822,Ava,Laptop,Accessories,1118.19,4,03-18-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1823,Olivia,Camera,Mobile Devices,501.5,10,01-12-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1824,Sophia,Laptop,Accessories,748.79,2,03-02-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1825,Liam,Laptop,Accessories,827.67,7,03-18-2024,Berlin,Berlin,Germany,52.52,13.405
+1826,Hannah,Smartwatch,Computers,662.98,1,02-21-2024,London,England,UK,51.5074,-0.1278
+1827,Grace,Laptop,Accessories,1079.23,10,02-27-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1828,Frank,Monitor,Computers,601.31,5,01-26-2024,Paris,Île-de-France,France,48.8566,2.3522
+1829,Grace,Laptop,Accessories,1166.35,6,03-21-2024,Toronto,Ontario,Canada,43.651,-79.347
+1830,Isaac,Printer,Accessories,273.8,7,03-27-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1831,Sophia,Monitor,Computers,585.73,9,01-18-2024,New York,New York,USA,40.7128,-74.006
+1832,Jack,Phone,Electronics,1023.18,6,01-12-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1833,Jack,Mouse,Accessories,187.45,8,02-16-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1834,Sophia,Printer,Accessories,278.62,3,01-01-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1835,Emma,Headphones,Accessories,245.73,6,01-31-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1836,Emma,Laptop,Accessories,876.72,9,01-05-2024,New York,New York,USA,40.7128,-74.006
+1837,Jack,Smartwatch,Computers,773.31,1,01-02-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1838,Liam,Mouse,Accessories,477.8,4,02-16-2024,Los Angeles,California,USA,34.0522,-118.2437
+1839,Sophia,Smartwatch,Computers,339.04,5,03-22-2024,Berlin,Berlin,Germany,52.52,13.405
+1840,Alice,Monitor,Computers,771.9,7,01-19-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1841,Sophia,Tablet,Accessories,798.76,8,03-07-2024,Toronto,Ontario,Canada,43.651,-79.347
+1842,Jack,Headphones,Accessories,356.95,3,02-14-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1843,Frank,Printer,Accessories,400.03,10,02-17-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1844,Isaac,Monitor,Computers,1109.96,6,01-11-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1845,Jack,Camera,Mobile Devices,1467.69,9,03-10-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1846,Liam,Mouse,Accessories,314.64,10,01-06-2024,Paris,Île-de-France,France,48.8566,2.3522
+1847,Frank,Mouse,Accessories,519.28,7,03-28-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1848,Charlie,Laptop,Accessories,1460.54,4,02-06-2024,Berlin,Berlin,Germany,52.52,13.405
+1849,David,Headphones,Accessories,378.84,1,03-16-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1850,Olivia,Camera,Mobile Devices,1042.48,10,03-21-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1851,Hannah,Monitor,Computers,564.47,2,03-15-2024,London,England,UK,51.5074,-0.1278
+1852,Hannah,Laptop,Accessories,1342.01,7,03-11-2024,Paris,Île-de-France,France,48.8566,2.3522
+1853,Liam,Monitor,Computers,788.32,6,02-06-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1854,Frank,Headphones,Accessories,248.85,2,01-12-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1855,Ava,Laptop,Accessories,1493.47,2,01-18-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1856,Alice,Keyboard,Accessories,460.59,3,02-17-2024,Paris,Île-de-France,France,48.8566,2.3522
+1857,Isaac,Camera,Mobile Devices,417.44,4,03-01-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1858,Alice,Headphones,Accessories,268.16,6,02-23-2024,London,England,UK,51.5074,-0.1278
+1859,Frank,Mouse,Accessories,193.48,10,03-23-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1860,Alice,Monitor,Computers,1218.52,3,02-16-2024,London,England,UK,51.5074,-0.1278
+1861,Charlie,Keyboard,Accessories,522.59,10,03-31-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1862,Noah,Mouse,Accessories,236.98,10,01-27-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1863,Hannah,Keyboard,Accessories,263.27,5,03-22-2024,London,England,UK,51.5074,-0.1278
+1864,Emma,Monitor,Computers,751.31,10,02-11-2024,Toronto,Ontario,Canada,43.651,-79.347
+1865,Liam,Headphones,Accessories,163.75,5,02-21-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1866,Liam,Camera,Mobile Devices,813.34,7,03-08-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1867,Emma,Headphones,Accessories,243.92,6,03-15-2024,Los Angeles,California,USA,34.0522,-118.2437
+1868,Alice,Phone,Electronics,812.32,1,01-31-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1869,Olivia,Printer,Accessories,217.76,9,01-31-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1870,Noah,Camera,Mobile Devices,1033.36,9,02-26-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1871,Liam,Camera,Mobile Devices,788.19,9,02-04-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1872,Isaac,Printer,Accessories,415.37,3,02-29-2024,Toronto,Ontario,Canada,43.651,-79.347
+1873,Alice,Smartwatch,Computers,414.99,2,02-10-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1874,Liam,Laptop,Accessories,659.18,2,03-01-2024,London,England,UK,51.5074,-0.1278
+1875,Emma,Headphones,Accessories,154.85,5,01-26-2024,Paris,Île-de-France,France,48.8566,2.3522
+1876,Liam,Printer,Accessories,365.96,6,01-31-2024,Berlin,Berlin,Germany,52.52,13.405
+1877,Alice,Tablet,Accessories,628.67,7,03-11-2024,New York,New York,USA,40.7128,-74.006
+1878,Ava,Headphones,Accessories,253.23,4,02-19-2024,Los Angeles,California,USA,34.0522,-118.2437
+1879,Ava,Keyboard,Accessories,648.85,6,03-25-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1880,Liam,Headphones,Accessories,233.98,8,02-12-2024,Berlin,Berlin,Germany,52.52,13.405
+1881,Alice,Phone,Electronics,1196.13,4,03-12-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1882,Grace,Tablet,Accessories,1111.48,2,03-29-2024,Los Angeles,California,USA,34.0522,-118.2437
+1883,Liam,Camera,Mobile Devices,1154.03,3,03-24-2024,Berlin,Berlin,Germany,52.52,13.405
+1884,Bob,Headphones,Accessories,387.6,3,03-07-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1885,Noah,Phone,Electronics,971.36,6,03-17-2024,Toronto,Ontario,Canada,43.651,-79.347
+1886,Hannah,Headphones,Accessories,296.09,2,03-04-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1887,Ava,Smartwatch,Computers,457.1,6,01-31-2024,London,England,UK,51.5074,-0.1278
+1888,David,Keyboard,Accessories,317.21,3,01-29-2024,Berlin,Berlin,Germany,52.52,13.405
+1889,Grace,Camera,Mobile Devices,409.41,4,02-09-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1890,Ava,Keyboard,Accessories,171.9,4,03-10-2024,New York,New York,USA,40.7128,-74.006
+1891,Sophia,Tablet,Accessories,546.71,2,02-21-2024,Paris,Île-de-France,France,48.8566,2.3522
+1892,Charlie,Headphones,Accessories,302.59,7,03-22-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1893,Hannah,Tablet,Accessories,854.23,1,03-06-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1894,Charlie,Tablet,Accessories,1310.97,5,03-08-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1895,Charlie,Keyboard,Accessories,305.84,8,03-01-2024,New York,New York,USA,40.7128,-74.006
+1896,David,Smartwatch,Computers,331.51,7,02-25-2024,New York,New York,USA,40.7128,-74.006
+1897,Isaac,Mouse,Accessories,334.26,2,03-30-2024,London,England,UK,51.5074,-0.1278
+1898,Ava,Camera,Mobile Devices,642.21,10,01-07-2024,London,England,UK,51.5074,-0.1278
+1899,Jack,Phone,Electronics,1332.48,2,02-09-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1900,Bob,Keyboard,Accessories,675.26,6,01-17-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1901,Grace,Printer,Accessories,218.19,7,01-14-2024,New York,New York,USA,40.7128,-74.006
+1902,Emma,Mouse,Accessories,351.09,8,01-04-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1903,Olivia,Monitor,Computers,721.25,1,01-04-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1904,Bob,Printer,Accessories,312.89,3,02-08-2024,New York,New York,USA,40.7128,-74.006
+1905,Isaac,Phone,Electronics,1179.01,3,02-13-2024,London,England,UK,51.5074,-0.1278
+1906,Grace,Tablet,Accessories,1238.96,3,02-16-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1907,Frank,Tablet,Accessories,1295.39,2,03-14-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1908,Sophia,Mouse,Accessories,335.3,10,03-15-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1909,Liam,Camera,Mobile Devices,597.08,4,01-08-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1910,David,Smartwatch,Computers,391.19,8,01-18-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1911,Hannah,Printer,Accessories,538.54,3,01-11-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1912,Noah,Laptop,Accessories,937.54,1,03-15-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1913,Hannah,Monitor,Computers,490.21,4,03-16-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1914,Ava,Camera,Mobile Devices,401.91,3,03-17-2024,London,England,UK,51.5074,-0.1278
+1915,Olivia,Printer,Accessories,278.56,7,01-10-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1916,Charlie,Smartwatch,Computers,323.92,1,03-12-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1917,Noah,Phone,Electronics,512.4,2,01-16-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1918,Charlie,Camera,Mobile Devices,1004.85,7,01-06-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1919,Sophia,Keyboard,Accessories,894.74,10,02-23-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1920,Sophia,Mouse,Accessories,162.94,1,03-28-2024,London,England,UK,51.5074,-0.1278
+1921,Hannah,Keyboard,Accessories,124.93,9,02-07-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1922,Emma,Smartwatch,Computers,300.94,1,02-14-2024,Berlin,Berlin,Germany,52.52,13.405
+1923,Frank,Smartwatch,Computers,595.23,2,03-16-2024,Los Angeles,California,USA,34.0522,-118.2437
+1924,Alice,Monitor,Computers,634.51,9,02-04-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1925,Frank,Mouse,Accessories,113.37,3,03-28-2024,London,England,UK,51.5074,-0.1278
+1926,Emma,Laptop,Accessories,1589.76,4,01-14-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1927,Noah,Camera,Mobile Devices,928.87,2,02-10-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1928,Emma,Laptop,Accessories,928.89,7,02-08-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1929,Grace,Laptop,Accessories,1203.98,2,02-21-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1930,Olivia,Monitor,Computers,1053.73,3,01-16-2024,Paris,Île-de-France,France,48.8566,2.3522
+1931,Olivia,Keyboard,Accessories,617.13,6,02-19-2024,Los Angeles,California,USA,34.0522,-118.2437
+1932,David,Smartwatch,Computers,428.21,7,02-13-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1933,Alice,Laptop,Accessories,912.27,3,01-12-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1934,Alice,Tablet,Accessories,428.07,5,03-07-2024,Toronto,Ontario,Canada,43.651,-79.347
+1935,Hannah,Tablet,Accessories,1093.24,3,03-28-2024,Paris,Île-de-France,France,48.8566,2.3522
+1936,Emma,Headphones,Accessories,227.92,6,02-01-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1937,Olivia,Mouse,Accessories,117.31,5,01-09-2024,Berlin,Berlin,Germany,52.52,13.405
+1938,Noah,Tablet,Accessories,1285.25,10,02-19-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1939,Charlie,Mouse,Accessories,309.55,6,03-19-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1940,Ava,Headphones,Accessories,396.11,7,03-09-2024,Berlin,Berlin,Germany,52.52,13.405
+1941,Olivia,Laptop,Accessories,1545.8,2,02-13-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1942,Grace,Smartwatch,Computers,511.28,6,03-01-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1943,Olivia,Phone,Electronics,937.07,8,01-26-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1944,Grace,Printer,Accessories,420.56,7,01-13-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1945,Frank,Phone,Electronics,914.76,8,03-17-2024,Paris,Île-de-France,France,48.8566,2.3522
+1946,Bob,Phone,Electronics,980.52,2,01-18-2024,London,England,UK,51.5074,-0.1278
+1947,Alice,Headphones,Accessories,296.38,1,03-28-2024,Toronto,Ontario,Canada,43.651,-79.347
+1948,Hannah,Keyboard,Accessories,764.01,9,03-10-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1949,Sophia,Laptop,Accessories,654.65,6,02-16-2024,Berlin,Berlin,Germany,52.52,13.405
+1950,Olivia,Phone,Electronics,570.9,2,03-31-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1951,Alice,Phone,Electronics,1109.26,7,02-19-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1952,Alice,Monitor,Computers,414.9,7,02-03-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1953,Ava,Smartwatch,Computers,730.35,2,03-11-2024,London,England,UK,51.5074,-0.1278
+1954,Olivia,Keyboard,Accessories,898.25,8,03-24-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1955,Sophia,Headphones,Accessories,212.71,3,03-28-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+1956,Ava,Printer,Accessories,531.31,10,03-31-2024,New York,New York,USA,40.7128,-74.006
+1957,Olivia,Mouse,Accessories,484.31,1,01-26-2024,Berlin,Berlin,Germany,52.52,13.405
+1958,Jack,Headphones,Accessories,238.18,7,01-18-2024,New York,New York,USA,40.7128,-74.006
+1959,Hannah,Printer,Accessories,339.44,3,01-27-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1960,Noah,Headphones,Accessories,170.89,2,03-16-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1961,Emma,Headphones,Accessories,338.6,3,03-04-2024,Berlin,Berlin,Germany,52.52,13.405
+1962,Emma,Printer,Accessories,428.83,6,03-17-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1963,Alice,Smartwatch,Computers,587.87,8,01-11-2024,London,England,UK,51.5074,-0.1278
+1964,Charlie,Printer,Accessories,455.03,9,02-08-2024,Paris,Île-de-France,France,48.8566,2.3522
+1965,Ava,Keyboard,Accessories,363.47,9,03-05-2024,Los Angeles,California,USA,34.0522,-118.2437
+1966,Hannah,Headphones,Accessories,179.25,6,01-21-2024,Toronto,Ontario,Canada,43.651,-79.347
+1967,Frank,Camera,Mobile Devices,619.71,3,01-02-2024,Berlin,Berlin,Germany,52.52,13.405
+1968,Emma,Monitor,Computers,963.52,4,01-30-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1969,Sophia,Laptop,Accessories,971.67,5,02-06-2024,New York,New York,USA,40.7128,-74.006
+1970,Emma,Laptop,Accessories,988.67,6,01-13-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1971,Grace,Keyboard,Accessories,685.73,9,01-17-2024,London,England,UK,51.5074,-0.1278
+1972,Hannah,Keyboard,Accessories,487.67,6,01-30-2024,London,England,UK,51.5074,-0.1278
+1973,Alice,Phone,Electronics,1475.19,5,03-18-2024,Paris,Île-de-France,France,48.8566,2.3522
+1974,Charlie,Camera,Mobile Devices,1172.69,1,01-06-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1975,Grace,Printer,Accessories,254.77,2,03-07-2024,Paris,Île-de-France,France,48.8566,2.3522
+1976,Hannah,Mouse,Accessories,330.3,9,02-06-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1977,Sophia,Laptop,Accessories,762.09,10,01-17-2024,Berlin,Berlin,Germany,52.52,13.405
+1978,David,Tablet,Accessories,1199.11,5,03-04-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1979,Liam,Keyboard,Accessories,578.77,5,01-08-2024,Berlin,Berlin,Germany,52.52,13.405
+1980,Isaac,Printer,Accessories,311.01,5,01-06-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1981,Frank,Camera,Mobile Devices,1383.85,7,03-12-2024,Los Angeles,California,USA,34.0522,-118.2437
+1982,Alice,Camera,Mobile Devices,684.67,8,01-10-2024,Toronto,Ontario,Canada,43.651,-79.347
+1983,Hannah,Smartwatch,Computers,410.9,1,03-25-2024,Moscow,Moscow,Russia,55.7558,37.6173
+1984,Hannah,Smartwatch,Computers,717.66,9,03-01-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1985,Noah,Smartwatch,Computers,676.99,6,02-06-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1986,Ava,Printer,Accessories,462.89,9,02-26-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1987,Jack,Phone,Electronics,1138.65,8,03-22-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+1988,Olivia,Printer,Accessories,252.19,7,03-31-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+1989,Noah,Laptop,Accessories,911.18,6,03-22-2024,Dubai,Dubai,UAE,25.276987,55.296249
+1990,Frank,Keyboard,Accessories,734.39,8,03-18-2024,Toronto,Ontario,Canada,43.651,-79.347
+1991,Isaac,Mouse,Accessories,315.6,5,03-08-2024,London,England,UK,51.5074,-0.1278
+1992,Jack,Smartwatch,Computers,573.83,6,02-06-2024,Los Angeles,California,USA,34.0522,-118.2437
+1993,Alice,Keyboard,Accessories,534.38,3,02-11-2024,Mumbai,Maharashtra,India,19.076,72.8777
+1994,David,Camera,Mobile Devices,463.36,5,03-14-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+1995,Grace,Laptop,Accessories,1512.84,1,02-12-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1996,Bob,Tablet,Accessories,950.31,2,02-09-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+1997,Ava,Mouse,Accessories,420.49,4,01-13-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+1998,Charlie,Headphones,Accessories,304.16,6,01-22-2024,London,England,UK,51.5074,-0.1278
+1999,Ava,Laptop,Accessories,1205.74,10,02-02-2024,London,England,UK,51.5074,-0.1278
+2000,Olivia,Printer,Accessories,320.26,5,02-13-2024,Paris,Île-de-France,France,48.8566,2.3522
+2001,Sophia,Monitor,Computers,1005.25,4,01-06-2024,Mumbai,Maharashtra,India,19.076,72.8777
+2002,Ava,Headphones,Accessories,219.48,1,03-20-2024,Los Angeles,California,USA,34.0522,-118.2437
+2003,Frank,Keyboard,Accessories,246.36,2,03-11-2024,Mumbai,Maharashtra,India,19.076,72.8777
+2004,Bob,Keyboard,Accessories,636.26,5,01-21-2024,Toronto,Ontario,Canada,43.651,-79.347
+2005,Liam,Headphones,Accessories,111.57,9,02-05-2024,Dubai,Dubai,UAE,25.276987,55.296249
+2006,David,Phone,Electronics,1281.34,10,02-16-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+2007,Noah,Mouse,Accessories,361.71,3,02-25-2024,Dubai,Dubai,UAE,25.276987,55.296249
+2008,Bob,Monitor,Computers,639.18,9,03-14-2024,Paris,Île-de-France,France,48.8566,2.3522
+2009,Jack,Headphones,Accessories,210.36,2,01-27-2024,London,England,UK,51.5074,-0.1278
+2010,Liam,Smartwatch,Computers,735.49,6,01-27-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+2011,Ava,Headphones,Accessories,347.5,8,03-03-2024,London,England,UK,51.5074,-0.1278
+2012,Liam,Smartwatch,Computers,608.72,5,03-19-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+2013,Charlie,Headphones,Accessories,111.69,1,02-05-2024,Los Angeles,California,USA,34.0522,-118.2437
+2014,Hannah,Laptop,Accessories,1112.32,9,03-24-2024,Sydney,New South Wales,Australia,-33.8688,151.2093
+2015,Alice,Laptop,Accessories,996.49,3,03-06-2024,Berlin,Berlin,Germany,52.52,13.405
+2016,Grace,Tablet,Accessories,1098.16,7,03-16-2024,London,England,UK,51.5074,-0.1278
+2017,Isaac,Camera,Mobile Devices,1030.89,8,03-01-2024,Toronto,Ontario,Canada,43.651,-79.347
+2018,Liam,Monitor,Computers,960.97,2,02-25-2024,London,England,UK,51.5074,-0.1278
+2019,Grace,Mouse,Accessories,226.99,6,02-27-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+2020,Bob,Smartwatch,Computers,779.86,2,01-03-2024,Los Angeles,California,USA,34.0522,-118.2437
+2021,Grace,Tablet,Accessories,1368.1,9,01-15-2024,Moscow,Moscow,Russia,55.7558,37.6173
+2022,Liam,Printer,Accessories,222.02,4,02-02-2024,Moscow,Moscow,Russia,55.7558,37.6173
+2023,Liam,Monitor,Computers,494.16,8,03-01-2024,Paris,Île-de-France,France,48.8566,2.3522
+2024,Liam,Mouse,Accessories,587.13,9,01-30-2024,Moscow,Moscow,Russia,55.7558,37.6173
+2025,Jack,Laptop,Accessories,977.79,5,03-24-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+2026,Olivia,Smartwatch,Computers,700.03,10,02-03-2024,Dubai,Dubai,UAE,25.276987,55.296249
+2027,Emma,Headphones,Accessories,187.73,5,03-03-2024,Toronto,Ontario,Canada,43.651,-79.347
+2028,Ava,Laptop,Accessories,923.19,5,02-11-2024,Toronto,Ontario,Canada,43.651,-79.347
+2029,Bob,Headphones,Accessories,178.62,6,01-19-2024,Los Angeles,California,USA,34.0522,-118.2437
+2030,Sophia,Printer,Accessories,478.99,7,02-23-2024,Los Angeles,California,USA,34.0522,-118.2437
+2031,Hannah,Headphones,Accessories,111.73,8,02-06-2024,Los Angeles,California,USA,34.0522,-118.2437
+2032,Frank,Monitor,Computers,462.82,6,03-08-2024,Cape Town,Western Cape,South Africa,-33.9249,18.4241
+2033,Frank,Tablet,Accessories,921.49,10,03-21-2024,Dubai,Dubai,UAE,25.276987,55.296249
+2034,Ava,Headphones,Accessories,390.69,2,02-12-2024,Toronto,Ontario,Canada,43.651,-79.347
+2035,Frank,Smartwatch,Computers,690.0,4,01-29-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+2036,Grace,Tablet,Accessories,734.42,10,01-01-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+2037,Sophia,Monitor,Computers,1126.12,10,01-07-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+2038,Alice,Monitor,Computers,405.5,6,03-17-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+2039,Liam,Camera,Mobile Devices,1453.99,8,01-09-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+2040,Bob,Tablet,Accessories,465.24,3,01-23-2024,Toronto,Ontario,Canada,43.651,-79.347
+2041,Liam,Smartwatch,Computers,447.72,2,02-05-2024,Mexico City,Mexico City,Mexico,19.4326,-99.1332
+2042,Hannah,Monitor,Computers,1015.33,9,03-12-2024,Tokyo,Tokyo,Japan,35.6895,139.6917
+2043,Liam,Printer,Accessories,523.29,6,03-15-2024,Los Angeles,California,USA,34.0522,-118.2437
+2044,Olivia,Camera,Mobile Devices,364.32,8,02-01-2024,Singapore,Central Region,Singapore,1.3521,103.8198
+2045,Noah,Printer,Accessories,254.38,5,03-09-2024,New York,New York,USA,40.7128,-74.006
+2046,Sophia,Camera,Mobile Devices,471.7,6,01-22-2024,São Paulo,São Paulo,Brazil,-23.5505,-46.6333
+2047,Noah,Headphones,Accessories,288.79,1,03-18-2024,Dubai,Dubai,UAE,25.276987,55.296249
+2048,David,Tablet,Accessories,1280.65,9,02-12-2024,Los Angeles,California,USA,34.0522,-118.2437
+2049,Emma,Tablet,Accessories,549.33,8,03-09-2024,Los Angeles,California,USA,34.0522,-118.2437
+2050,Noah,Phone,Electronics,563.26,1,03-16-2024,London,England,UK,51.5074,-0.1278
