@@ -13,13 +13,13 @@
 
 5. Create the following DAX measures and calculated columns to practice filter contexts, aggregations, and time intelligence. - Create a calculated column called profit by using Budget and Box office column - Create a calculated column to categorize movies by run time for segmentation.   
 ( - Run Time < 90, Short Run Time > 90 and Run Time < 120, Medium Run Time > 120 , Long ) - Create following measures:
--- Total Box Office 
--- Average Budget 
--- Average Margin 
--- Total movies with Oscars 
--- Top Genre by Box Office 
--- Year-over-Year Box Office Growth 
--- Average Nominations per Director 
+- Total Box Office 
+- Average Budget 
+- Average Margin 
+- Total movies with Oscars 
+- Top Genre by Box Office 
+- Year-over-Year Box Office Growth 
+- Average Nominations per Director 
 
 
 6. Visualization Requirements
